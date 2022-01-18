@@ -3,7 +3,7 @@
 This is the portfolio of Israel Akinpelu.
 
 
-## Tecnologies Used:
+## Technologies Used:
 - React
 - Typescript
 - Styled Components
