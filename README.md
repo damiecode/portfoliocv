@@ -1,8 +1,6 @@
-# Portfólio João Túlio
+# Israel's Portfolio
 
-Este projeto foi criado com CRA (Create React App).
-
-Este é meu site para me apresentar, aqui coloco minhas habilidades, portfólio, e formas de contato.
+This is the portfolio of Israel Akinpelu.
 
 
 ## Tecnologias usadas:
